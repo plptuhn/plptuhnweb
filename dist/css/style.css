@@ -341,7 +341,7 @@ header .content1 {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url('/backfot.jpg');
+    background-image: url('../gambar/backfot.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
