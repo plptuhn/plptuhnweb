@@ -1176,7 +1176,7 @@ footer {
     }
 
     .content10 .hero10 iframe {
-        margin-left: 50px;
+        margin-left: 0px;
     }
 
     .content10 .hero10 img {
@@ -1188,12 +1188,12 @@ footer {
     }
 
     .content10 .hero10 video {
-        width: 50% 
-        height: 50% 
+        width: 20% 
+        height: 20% 
     }
 
     header .content11 .hero11 p {
-        font-size: 10px;
+        font-size: 20px;
     }
 
     header .content11 .hero11 p span {
@@ -1218,7 +1218,7 @@ footer {
     header .content11 .hero11 .fbig p {
         background-color: #f9ff43;
         border-radius: 8px;
-        font-size: 1.5rem;
+        font-size: 2rem;
         margin-bottom: 1rem;
         align-items: center;
         margin-left: 0px;
