@@ -1122,7 +1122,15 @@ footer {
         max-width: 60rem;
         margin-left: 0;
     }
-    
+
+    header .content2 .hero2 p {
+        font-size: 2rem;
+    }
+
+     header .sidebar {
+         height: 1000vh;
+     }
+        
     .content5 .ika-img,
     .content5 .kar-img,
     .content5 .vina-img,
