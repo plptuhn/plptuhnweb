@@ -1177,6 +1177,8 @@ footer {
 
     .content10 .hero10 iframe {
         margin-left: 0px;
+        width: 50%; 
+        height: 50%;
     }
 
     .content10 .hero10 img {
@@ -1188,8 +1190,8 @@ footer {
     }
 
     .content10 .hero10 video {
-        width: 20% 
-        height: 20% 
+        width: 50%;
+        height: 50%;
     }
 
     header .content11 .hero11 p {
