@@ -1133,8 +1133,24 @@ footer {
     .content5 .ro-img,
     .content5 .art-img,
     .content5 .asi-img {
-        margin-top: 0.5rem;
-        margin-left: 0px;
+        margin-top: 1rem;
+        margin-left: 50px;
+    }
+
+    header .content5 .hero5 h2 {
+        font-size: 2rem;
+        color: #000000;
+        margin-bottom: 0.1rem;
+        margin-top: 1.5rem;
+        margin-left: 40px;
+    }
+    
+    header .content5 .hero5 p {
+        font-size: 2rem;
+        color: #000000;
+        line-height: 2;
+        margin-top: 0.1rem;
+        margin-left: 60px;
     }
 
     .content10 .hero10 iframe {
