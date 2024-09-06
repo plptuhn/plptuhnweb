@@ -1181,6 +1181,10 @@ footer {
         height: 100%;
     }
 
+    header .content10 .hero10 p {
+        border-radius: 8px
+    }
+
     .content10 .hero10 img {
         justify-content: center;
     }
