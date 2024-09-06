@@ -1143,8 +1143,97 @@ footer {
     header .content12 .hero13 h1 {
         margin-top: 10rem;
     }
+
+    .content6 .fas-1 {
+        margin-left: 70px;
+    }
+
+    .content6 .fas-1 {
+        margin-left: 60px;
+    }
+
+    header .content7 .hero7 .cta {
+        margin-left: 40px;
+    }
+
+    .content8 .hero8 .logo3 {
+        margin-left: 50px;
+        margin-bottom: 0rem;
+    }
     
-        
+    header .content8 .hero8 .tabel {
+        margin-left: 0px;
+        color: #eea700;
+    }
+    
+    header .content8 .hero8 .tabel td {
+        font-size: 1rem;
+    }
+
+    header .content12 .hero12 p {
+        font-size: 1.5rem;
+        margin-left: 50px;
+    }
+
+    .content10 .hero10 iframe {
+        margin-left: 50px;
+    }
+
+    .content10 .hero10 img {
+        justify-content: center;
+    }
+
+    .content10 .hero10 .logo2 {
+        margin-left: 100px;
+    }
+
+    .content10 .hero10 video {
+        width: 50% 
+        height: 50% 
+    }
+
+    header .content11 .hero11 p {
+        font-size: 10px;
+    }
+
+    header .content11 .hero11 p span {
+        display: block;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 1;
+    }
+
+    header .content11 .hero11 p a {
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+    }
+
+    header .content11 .hero11 .fbig {
+        justify-content: center;
+        margin-top: 2rem;
+        size: 10px;
+        margin-left: 30px;
+    }
+
+    header .content11 .hero11 .fbig p {
+        background-color: #f9ff43;
+        border-radius: 8px;
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+        align-items: center;
+        margin-left: 0px;
+    }
+
+    header .content11 .hero11 .fbig a {
+        color: blue;
+        font-size: 1.5rem;
+        text-decoration: none;
+    }
+
+    .content11 .hero11 .logo1 {
+        margin-left: 50px;
+    }
+            
     .content5 .ika-img,
     .content5 .kar-img,
     .content5 .vina-img,
