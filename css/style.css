@@ -1165,6 +1165,8 @@ footer {
     
     header .content8 .hero8 .tabel td {
         font-size: 2.5rem;
+        text-align: justify;
+        text-indent: 0.5in;
     }
 
     header .content12 .hero12 p {
