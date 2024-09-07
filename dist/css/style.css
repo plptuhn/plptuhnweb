@@ -1137,7 +1137,11 @@ footer {
     }
 
      header .content7 .hero7 .cta {
-        margin-left: 10px;
+        margin-left: 8px;
+    }
+    
+    header .content7 {
+        min-height: 70vh;
     }
 
     header .content2 .hero2 h1,
