@@ -1153,20 +1153,20 @@ footer {
     }
 
     .content8 .hero8 .logo3 {
-        margin-left: 70px;
+        margin-left: 80px;
         margin-bottom: 0rem;
     }
     
     header .content8 .hero8 .tabel {
-        margin-left: 0px;
+        margin-left: -10px;
         color: #eea700;
-        width: 80%;
+        width: 90%;
     }
     
     header .content8 .hero8 .tabel td {
-        font-size: 2.5rem;
+        font-size: 2rem;
         text-align: justify;
-        text-indent: 0.5in;
+        text-indent: 0.1in;
     }
 
     header .content12 .hero12 p {
