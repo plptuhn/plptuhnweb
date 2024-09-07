@@ -1145,8 +1145,39 @@ footer {
         font-size: 1rem;
     }
 
+    .content5 .ika-img,
+    .content5 .kar-img,
+    .content5 .vina-img,
+    .content5 .omi-img,
+    .content5 .pas-img,
+    .content5 .fred-img,
+    .content5 .ogi-img,
+    .content5 .ro-img,
+    .content5 .art-img,
+    .content5 .asi-img {
+        margin-top: 1rem;
+        margin-left: 50px;
+    }
+
+    header .content5 .hero5 h2 {
+        font-size: 2rem;
+        color: #000000;
+        margin-bottom: 0.1rem;
+        margin-top: 1.5rem;
+        margin-left: 40px;
+    }
+    
+    header .content5 .hero5 p {
+        font-size: 2rem;
+        color: #000000;
+        line-height: 2;
+        margin-top: 0.1rem;
+        margin-left: 60px;
+    }
+
     header .sidebar {
         width: 190px;
+        height: 500vh;
     }
     
     header .sidebar ul li {
